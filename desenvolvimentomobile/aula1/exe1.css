@@ -1,0 +1,22 @@
+body{
+
+    margin: 16px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1,
+
+h2{
+    margin: 16px 0 8px;
+}
+
+p {
+    margin: 8px 0 12px;
+}
+
+code{
+    background: #00000d;
+    padding: 2px 6px;
+    border-radius: 4px;
+}

@@ -1,0 +1,21 @@
+.ov{
+    width: 260px;
+    height: 90px;
+    border: 2px dashed #777;
+    background: #fafafa;
+    padding: 8px;
+    margin-bottom: 12px;
+}
+
+.visible{
+    overflow: visible;
+}
+.hidden{
+    overflow: hidden;
+}
+.scroll{
+    overflow: scroll;
+}
+.auto{
+    overflow: auto;
+}

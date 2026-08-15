@@ -1,0 +1,7 @@
+.box-model{
+    margin: 12px;
+    border: 12px solid #1e66ff;
+    padding: 12px;
+    background: #eaf3ff;
+    box-shadow: 0 0 0 12px #03f68d;
+}

@@ -1,0 +1,7 @@
+.limited{
+    width: 60%;
+    min-width: 260px;
+    max-width: 420px;
+    border: 2px solid #00a398;
+    padding: 8px;
+}
